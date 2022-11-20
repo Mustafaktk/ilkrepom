@@ -1,0 +1,2 @@
+# ilkrepom
+frontend yazılım öğreniyorum
